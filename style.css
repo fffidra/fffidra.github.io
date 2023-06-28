@@ -1,0 +1,55 @@
+body{
+    font-family: 'Inter', sans-serif !important;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.search-control{
+    margin-top: 80px !important;
+}
+
+.search-movie{
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.result-error{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 200px;
+}
+
+.sosmed-button{
+    border-radius: 50% !important;
+}
+
+.landing{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-text{
+    text-align: center;
+    color: white;
+}  
+
+.landing-text h1{
+    font-weight: 600;
+    letter-spacing: 5px;
+    font-size: 55px;
+}
+
+.landing-text p{
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+
+#search-button{
+    color: white;
+}
